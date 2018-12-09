@@ -1,0 +1,24 @@
+{
+  "name": "earth",
+  "version": "1.0.0",
+  "description": "A WebComponent to display an earth, by d3.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkpoon/earth.git"
+  },
+  "keywords": [
+    "earth",
+    "d3.js",
+    "d3-geo"
+  ],
+  "author": "kkpoon <noopkk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkpoon/earth/issues"
+  },
+  "homepage": "https://github.com/kkpoon/earth#readme"
+}
